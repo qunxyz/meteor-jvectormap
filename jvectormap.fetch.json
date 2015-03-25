@@ -1,11 +1,11 @@
 [
     {
         "file": "jquery-jvectormap-2.0.2.min.js",
-        "url": "http://jvectormap.com/js/jquery-jvectormap-2.0.2.min.js",
+        "url": "https://raw.githubusercontent.com/qunxyz/meteor-jvectormap/master/jquery-jvectormap-2.0.2.min.js",
         "bare": true
     },
     {
         "file": "jquery-jvectormap-2.0.2.css",
-        "url": "http://jvectormap.com/css/jquery-jvectormap-2.0.2.css"
+        "url": "https://raw.githubusercontent.com/qunxyz/meteor-jvectormap/master/jquery-jvectormap-2.0.2.css"
     }
 ]
